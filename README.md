@@ -1,2 +1,0 @@
-# pac3
-HTML i CSS PAC3
